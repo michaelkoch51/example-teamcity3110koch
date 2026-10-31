@@ -36,3 +36,4 @@ public class WelcomerTest {
 public void testHunterReply() {
     assertTrue(new Welcomer().getHunterReply().contains("hunter"));
 }
+}
