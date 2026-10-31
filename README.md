@@ -14,3 +14,6 @@
 
 ## Ссылка на репозиторий
 [https://github.com/michaelkoch51/example-teamcity3110koch](https://github.com/michaelkoch51/example-teamcity3110koch)
+
+![](https://github.com/user-attachments/assets/26a32a62-cb0f-416a-a20b-fb57c4263eb4)
+![](https://github.com/user-attachments/assets/8648c26d-b09e-4cf7-b2da-d2e23fdbbc46)
